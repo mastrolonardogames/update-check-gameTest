@@ -1,0 +1,6 @@
+{
+  "ios_version": "1.0.0",
+  "android_version": "1.0.0",
+  "ios_store_url": "https://apps.apple.com/app/idYOUR_APP_ID",
+  "android_store_url": "https://play.google.com/store/apps/details?id=your.package.name"
+}
