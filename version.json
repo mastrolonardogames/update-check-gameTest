@@ -3,7 +3,7 @@
   "ios_store_url": "https://apps.apple.com/app/idYOUR_APP_ID",
   
   "android_version": "0.0.3",
-  "android_store_url": "https://play.google.com/store/apps/details?id=your.package.name",
+  "android_store_url": "https://play.google.com/apps/internaltest/4701252188698854588",
   
   "legal_version": "0.0.4"
 }
